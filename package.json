@@ -1,4 +1,12 @@
 {
   "name": "@ddody/tiny00",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "my first npm module",
+  "license": "MIT",
+  "repository": "ddody/first-module",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "package"
+  ]
 }
